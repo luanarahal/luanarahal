@@ -20,9 +20,9 @@
 
 <h3> Programação e Desenvolvimento </h3>
 Atualmente: Participando de uma mentoria para aprimorar habilidades em programação, focando em código modular e limpo.
-<strong> &#127828; <a href="https://github.com/luanarahal/training-software-engineer" _blank>Repositório da Mentoria</a></strong>
+<strong><a href="https://github.com/luanarahal/training-software-engineer" _blank>Repositório da Mentoria</a></strong>
 <br>
-
+<br>
 - `Linguagens:` JavaScript, Python
 - `Banco de Dados:` PostgreSQL, pgAdmin
 - `Plataforma API:` Postman
