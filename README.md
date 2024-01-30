@@ -33,7 +33,7 @@ Atualmente: Participando de uma mentoria para aprimorar habilidades em programa�
 
 Estou constantemente expandindo meu conhecimento e buscando novas oportunidades para aplicar minhas habilidades. Se você estiver interessado em colaborar ou trocar experiências, sinta-se à vontade para entrar em contato! 😊
 
-<p>Meu perfil no <a _blank href='https://www.linkedin.com/in/luana-rahal-luz/'>LinkedIn</a></p> 🐼
+<p>Meu perfil no <a _blank href='https://www.linkedin.com/in/luana-rahal-luz/'>LinkedIn</a> 🐼</p> 
 
 
 
