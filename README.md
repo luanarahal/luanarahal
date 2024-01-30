@@ -1,4 +1,4 @@
-<h1 align="center">## Olá, eu sou a Luana! ✨ </h1>
+<h1 align="center">Olá, eu sou a Luana! ✨ </h1>
 
 <h2> Sobre mim 🙂 </h2>
 
@@ -23,6 +23,7 @@ Atualmente: Participando de uma mentoria para aprimorar habilidades em programa�
 <strong><a href="https://github.com/luanarahal/training-software-engineer" _blank>Repositório da Mentoria</a></strong>
 <br>
 <br>
+
 - `Linguagens:` JavaScript, Python
 - `Banco de Dados:` PostgreSQL, pgAdmin
 - `Plataforma API:` Postman
