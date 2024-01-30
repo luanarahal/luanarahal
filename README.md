@@ -1,4 +1,4 @@
-## Olá, eu sou a Luana! ✨
+<h1 align="center">## Olá, eu sou a Luana! ✨ </h1>
 
 <h2> Sobre mim 🙂 </h2>
 
@@ -20,6 +20,8 @@
 
 <h3> Programação e Desenvolvimento </h3>
 Atualmente: Participando de uma mentoria para aprimorar habilidades em programação, focando em código modular e limpo.
+<strong> &#127828; <a href="https://github.com/luanarahal/training-software-engineer" _blank>Repositório da Mentoria</a></strong>
+
 
 - `Linguagens:` JavaScript, Python
 - `Banco de Dados:` PostgreSQL, pgAdmin
@@ -29,18 +31,3 @@ Atualmente: Participando de uma mentoria para aprimorar habilidades em programa�
 - `Metodologias de Desenvolvimento:` Metodologias Ágeis
 
 Estou constantemente expandindo meu conhecimento e buscando novas oportunidades para aplicar minhas habilidades. Se você estiver interessado em colaborar ou trocar experiências, sinta-se à vontade para entrar em contato! 😊
-
-<!--
-**luanarahal/luanarahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
