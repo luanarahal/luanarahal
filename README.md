@@ -14,11 +14,11 @@
 - `Adaptabilidade:` Sempre aberta a aprender e me adaptar a novas situações.
 - `Gestão do Tempo:` Eficiência no uso do tempo é crucial para cumprir prazos e metas.
 - `Boa Comunicação:` Acredito na comunicação clara e transparente para o sucesso em equipe.
-- `Trabalho em Equipe:` Valorizo a colaboração e acredito no poder do trabalho conjunto.
+- `Trabalho em Equipe:` Valorizo a colaboração e acredito no poder do trabalho em conjunto.
 
 <h2> Hard Skills </h2>
 
-Programação e Desenvolvimento
+<h3> Programação e Desenvolvimento </h3>
 Atualmente: Participando de uma mentoria para aprimorar habilidades em programação, focando em código modular e limpo.
 
 - `Linguagens:` JavaScript, Python
