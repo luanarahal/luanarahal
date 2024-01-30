@@ -32,3 +32,10 @@ Atualmente: Participando de uma mentoria para aprimorar habilidades em programa�
 - `Metodologias de Desenvolvimento:` Metodologias Ágeis
 
 Estou constantemente expandindo meu conhecimento e buscando novas oportunidades para aplicar minhas habilidades. Se você estiver interessado em colaborar ou trocar experiências, sinta-se à vontade para entrar em contato! 😊
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luanarahal&show_icons=true&theme=dark&locale=en" alt="luanarahal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luanarahal&theme=dark" alt="luanarahal" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanarahal&show_icons=true&theme=dark&locale=en&layout=compact" alt="luanarahal" /></p>
