@@ -25,7 +25,7 @@ Atualmente: Participando de uma mentoria para aprimorar habilidades em programa�
 <br>
 
 - `Linguagens:` JavaScript, Python
-- `Banco de Dados:` PostgreSQL, pgAdmin
+- `Banco de Dados:` PostgreSQL
 - `Plataforma API:` Postman
 - `Linguagens de Marcação e Estilização:` HTML5, CSS
 - `Controle de Versão:` Git, Github
