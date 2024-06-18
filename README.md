@@ -2,9 +2,9 @@
 
 <h2> Sobre mim 🙂 </h2>
 
-👷🏽‍♀️ Formada Técnica em Informática e em Engenharia Civil <br>
+👷🏽‍♀️ Formada Técnica em Informática e Engenharia Civil, estou cursando pós gradução em Análise e Desenvolvimento de Sistemas<br>
 👩🏽‍💻 Apaixonada pela tecnologia e sempre em busca de desafios <br>
-🚴‍♀️ No meu tempo livre eu amo pedalar, ir no cinema e passear com meus cachorros <br>
+🚴‍♀️ No meu tempo livre eu amo pedalar, ir no cinema, viajar e passear com meus cachorros <br>
 
 <h2> Soft Skills </h2>
 
