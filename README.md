@@ -2,7 +2,7 @@
 
 <h2> Sobre mim 🙂 </h2>
 
-👷🏽‍♀️ Formada Técnica em Informática e Engenharia Civil, estou cursando pós gradução em Análise e Desenvolvimento de Sistemas<br>
+👷🏽‍♀️ Formada Técnica em Informática e Engenharia Civil, estou cursando pós graduação em Análise e Desenvolvimento de Sistemas<br>
 👩🏽‍💻 Apaixonada pela tecnologia e sempre em busca de desafios <br>
 🚴‍♀️ No meu tempo livre eu amo pedalar, ir no cinema, viajar e passear com meus cachorros <br>
 
